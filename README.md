@@ -1,8 +1,6 @@
 # Piramide
 L'esercizio chiede, un volta data in ingresso un numero di mattoni, di calcolare quanti piani si possono creare ed, in caso ne remangano in più quanti.
 
-# Spiegazione del problema passo a passo:
-
 ### Calcolo piani:
 Prima di tutto facciamo un contrllo per verificare se il numero di mattoni è <=0 ed in caso ritorniamo 0.
 
